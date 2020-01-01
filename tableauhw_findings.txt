@@ -1,0 +1,6 @@
+Average age of Users is 30 years old
+76% of all users are male
+Average age of Subscribers is 38~ years old
+Grove Street is #1 starting and ending station by # of trips
+Grove Street has most purchases of temporary and annual customers
+Spike in purchases of temporary passes in the middle and towards the end of the month
